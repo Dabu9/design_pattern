@@ -6,10 +6,25 @@
       <list>
         <option value="$PROJECT_DIR$/principle_single_responsibility/pom.xml" />
         <option value="$PROJECT_DIR$/principle_DI/pom.xml" />
+        <option value="$PROJECT_DIR$/pattern_simple_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/pattern_decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/flyweight_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/chain_of_responsibility_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/command_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/interpreter_pattern_01/pom.xml" />
+        <option value="$PROJECT_DIR$/interpreter_pattern_02/pom.xml" />
+        <option value="$PROJECT_DIR$/iterator_pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator_pattern/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/interpreter_pattern_01/interpreter_pattern_02/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

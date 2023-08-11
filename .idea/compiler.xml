@@ -6,9 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="principle_single_responsibility" />
         <module name="principle_DI" />
+        <module name="pattern_decorator" />
+        <module name="interpreter_pattern_02" />
+        <module name="mediator_pattern" />
+        <module name="principle_single_responsibility" />
+        <module name="flyweight_pattern" />
+        <module name="command_pattern" />
+        <module name="pattern_simple_factory" />
+        <module name="proxy_pattern" />
+        <module name="chain_of_responsibility_pattern" />
+        <module name="iterator_pattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
