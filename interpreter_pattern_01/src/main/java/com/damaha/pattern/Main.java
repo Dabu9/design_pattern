@@ -1,7 +1,5 @@
 package com.damaha.pattern;
 
-import com.damaha.pattern.node.AbstractNode;
-
 public class Main {
     public static void main(String[] args) {
         String i1 = "up move 5 and down run 10";
